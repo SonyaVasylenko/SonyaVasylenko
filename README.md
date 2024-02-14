@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @SonyaVasylenko
+- 👀 I am interested in front-end development
+- 🌱 I am currently studying java script 
+- 💞️ I'm looking for cooperation on interesting projects as a layout designer
+- 📫 How to contact me: sonyasergeevna0@gmail.com Telegram @sonyasylen (+380986536974)
